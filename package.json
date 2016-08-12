@@ -1,0 +1,35 @@
+{
+  "name": "flow_budgeting",
+  "version": "1.0.0",
+  "description": "Simple budgeting application.",
+  "main": "server.js",
+  "dependencies": {
+    "httpdispatcher": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alberthu16/FlowBudgeting.git"
+  },
+  "keywords": [
+    "budget",
+    "budgeting",
+    "flow",
+    "money",
+    "save",
+    "earn",
+    "expenditures",
+    "spend",
+    "spendings"
+  ],
+  "author": "alberthu16",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alberthu16/FlowBudgeting/issues"
+  },
+  "homepage": "https://github.com/alberthu16/FlowBudgeting#readme"
+}
